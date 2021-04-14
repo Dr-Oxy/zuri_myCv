@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap');
+
 html {
   font-size: 16px;
   box-sizing: border-box;
@@ -13,7 +15,7 @@ html {
 }
 
 body {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   background-color: #fff;
   color: #111;
 }
@@ -106,7 +108,7 @@ p.date {
 }
 
 #xps .job-title {
-  font-weight: bold;
+  font-weight: 700;
   margin-top: 5px;
   margin-bottom: 10px;
 }
