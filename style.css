@@ -49,6 +49,7 @@ body {
   display: block;
   text-decoration: none;
   color: #f4f4f4;
+  font-size: 20px;
 }
 
 .quick-nav a:hover {
